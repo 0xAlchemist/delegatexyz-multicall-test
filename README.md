@@ -23,5 +23,5 @@ main.ts:24 Error: call revert exception [ See: https://links.ethers.org/v5-error
 The correct cold wallet addresses appear in the `data` field, but I'm having trouble figuring out the source of the error beyond the fact that `getIncomingDelegations` is being reverted. ABIs, args and return types seem to be correct.
 
 ABIs
-- [getIncomingDelegations](`./src/constants.ts#L23`)
-- [multicall (from snapshot)](`./src/utils.ts#L5`)
+- [getIncomingDelegations](https://github.com/0xAlchemist/delegatexyz-multicall-test/blob/main/src/constants.ts#L23)
+- [multicall (from snapshot)](https://github.com/0xAlchemist/delegatexyz-multicall-test/blob/main/src/utils.ts#L5)
