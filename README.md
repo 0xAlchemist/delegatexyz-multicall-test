@@ -4,7 +4,11 @@ Solution is now working. Issue came from using shorthand ABI for getIncomingDele
 
 Ethers interface decoder couldn't handle the return type as it is a custom struct.
 
+<<<<<<< HEAD
 ===========================================================================
+=======
+*****
+>>>>>>> 49e1f65 (fix line)
 
 Install dependencies
 `npm i`
